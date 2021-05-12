@@ -192,13 +192,15 @@
                 <notebook>
                     <page string="Usuarios">
                         <group colspan="4">
+                            <!--
                             <field name="user_creacion_ids" nolabel="1" string="Usuario">
                                 <tree>
                                     <field name="name" />
                                     <field name="user" />
                                     <field name="tipo_usuario" />
                                 </tree>
-                            </field>  
+                            </field>
+                            -->
                         </group>
                     </page>
 
@@ -447,7 +449,7 @@
                  <notebook>
                     <page string="Usuarios">
                         <group colspan="4">
-                                
+                                 <!--
                                 <field name="user_creacion_ids"
                                         nolabel="1">
                                         <tree>
@@ -456,6 +458,7 @@
                                                 <field name="tipo_usuario" />
                                         </tree>
                                 </field>  
+                                -->
                         </group>
                     </page>
 
