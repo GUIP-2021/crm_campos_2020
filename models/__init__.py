@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
-from . import hr, crm_lead
+from . import hr
 from . import creacion_usuarios
